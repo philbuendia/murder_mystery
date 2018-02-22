@@ -10,7 +10,7 @@ if (room ==="ballroom" && suspect === "Mr.Kalehoff") {
    
 } else if (room === "gallery" && suspect === "Ms. Van Cleve") {
    weapon = "trophy";
-   solved = false;
+   solved = true;
    
 } else if (room === "billiards" && suspect === "Mrs. Sparr") {
    weapon = "pool stick";
