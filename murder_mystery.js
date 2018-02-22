@@ -10,7 +10,11 @@ if (room ==="ballroom" && suspect === "Mr.Kalehoff") {
    
 } else if (room === "gallery" && suspect === "Ms. Van Cleve") {
    weapon = "trophy";
+<<<<<<< HEAD
    solved = true;
+=======
+   solved = false;
+>>>>>>> parent of 35ef6b1... Phil
    
 } else if (room === "billiards" && suspect === "Mrs. Sparr") {
    weapon = "pool stick";
